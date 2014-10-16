@@ -1,4 +1,4 @@
-#Guess the numbers game
+#guess.py - Guess the random number game - 
 import random
 
 guessesTaken = 0
