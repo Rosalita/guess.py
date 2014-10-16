@@ -1,4 +1,4 @@
 guess.py
 ========
 
-My first Python program, a simple Number guessing game.
+My first Python program, a simple number guessing game.
